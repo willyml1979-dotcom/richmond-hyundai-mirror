@@ -1,7 +1,7 @@
 {
   "dealership": "Richmond Hyundai",
-  "generated_at": "2026-10-25T14:25:52",
-  "vehicle_count": 507,
+  "generated_at": "2026-10-25T14:33:46",
+  "vehicle_count": 511,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -2789,17 +2789,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Elantra N N Line Ultimate DCT",
-      "vin": "KMHLR4DF2TU124935",
-      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/new/73140ad1fd36.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Elantra",
-      "condition": "new",
-      "price": 34449.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Hyundai Elantra Preferred IVT w/Tech Pkg",
       "vin": "KMHLM4DG3TU102787",
       "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/new/9fbd440844b3.html",
@@ -2808,6 +2797,17 @@
       "model": "Elantra",
       "condition": "new",
       "price": 29349.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Hyundai Elantra N Line Ultimate DCT",
+      "vin": "KMHLR4DF9TU129811",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/new/fbedeb9f20ae.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Elantra",
+      "condition": "new",
+      "price": 34099.0,
       "price_currency": "CAD"
     },
     {
@@ -3174,6 +3174,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2026 Hyundai Elantra N Line Ultimate DCT",
+      "vin": "KMHLR4DF2TU124935",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/new/fe1eadbcb920.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Elantra",
+      "condition": "new",
+      "price": 34449.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Hyundai Elantra Essential IVT",
       "vin": "KMHLM4DGXTU295701",
       "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/new/a5d84bd3c64e.html",
@@ -3449,17 +3460,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Kona Electric Preferred FWD w/Trend Package",
-      "vin": "KM8HD3A63TU047589",
-      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/new/2b564a806df5.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Kona Electric",
-      "condition": "new",
-      "price": 41399.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Hyundai Kona Electric Preferred FWD w/Ultimate Package",
       "vin": "KM8HE3A62TU047516",
       "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/new/a4c565e07909.html",
@@ -3589,17 +3589,6 @@
       "model": "Kona",
       "condition": "new",
       "price": 32899.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Kona 2.0L Preferred AWD",
-      "vin": "KM8HBCAB0TU448360",
-      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/new/41977ed1ae19.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Kona",
-      "condition": "new",
-      "price": 32549.0,
       "price_currency": "CAD"
     },
     {
@@ -4033,17 +4022,6 @@
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid Ultimate Calligraphy AWD",
-      "vin": "KM8P5DG10TU199663",
-      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/new/f13b9b53a984.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Santa Fe Hybrid",
-      "condition": "new",
-      "price": 58299.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Santa Fe Hybrid Ultimate Calligraphy AWD",
       "vin": "KM8P5DG12TU200277",
       "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/new/a50dfb8a1e4f.html",
       "year": 2026,
@@ -4418,17 +4396,6 @@
     },
     {
       "name": "2026 Hyundai Tucson Hybrid N-Line AWD",
-      "vin": "KM8JCDD14TU498945",
-      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/new/3aaa15747b0c.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Tucson Hybrid",
-      "condition": "new",
-      "price": 47049.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Tucson Hybrid N-Line AWD",
       "vin": "KM8JCDD11TU499096",
       "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/new/50e11141e2e2.html",
       "year": 2026,
@@ -4442,17 +4409,6 @@
       "name": "2026 Hyundai Tucson Hybrid N-Line AWD",
       "vin": "KM8JCDD10TU503297",
       "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/new/a4482a1b5901.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Tucson Hybrid",
-      "condition": "new",
-      "price": 47049.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Tucson Hybrid N-Line AWD",
-      "vin": "KM8JCDD12TU503060",
-      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/new/6f6f80644131.html",
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
@@ -4618,39 +4574,6 @@
       "name": "2026 Hyundai Tucson Hybrid Ultimate AWD",
       "vin": "KM8JCDD12TU526256",
       "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/new/e166dbd474c9.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Tucson Hybrid",
-      "condition": "new",
-      "price": 50099.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Tucson Hybrid Ultimate AWD",
-      "vin": "KM8JCDD12TU539167",
-      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/new/129f5222bdcc.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Tucson Hybrid",
-      "condition": "new",
-      "price": 50449.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Tucson Hybrid Ultimate AWD",
-      "vin": "KM8JCDD13TU539162",
-      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/new/4a15ccf829ed.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Tucson Hybrid",
-      "condition": "new",
-      "price": 50449.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Tucson Hybrid Ultimate AWD",
-      "vin": "KM8JCDD1XTU438877",
-      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/new/688431249ea6.html",
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
@@ -5011,6 +4934,61 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2026 Hyundai Venue Essential IVT",
+      "vin": "KMHRB8A39TU503835",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/new/a64f87a9dce5.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Venue",
+      "condition": "new",
+      "price": 24299.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Hyundai Venue Essential IVT",
+      "vin": "KMHRB8A33TU503877",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/new/b4d579a1e43b.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Venue",
+      "condition": "new",
+      "price": 24299.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Hyundai Venue Preferred IVT",
+      "vin": "KMHRC8A34TU503819",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/new/b0c8f531882c.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Venue",
+      "condition": "new",
+      "price": 26399.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Hyundai Venue Preferred IVT",
+      "vin": "KMHRC8A39TU504996",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/new/68cf4787055e.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Venue",
+      "condition": "new",
+      "price": 26749.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Hyundai Venue Essential IVT",
+      "vin": "KMHRB8A31TU503859",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/new/a887fda994bc.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Venue",
+      "condition": "new",
+      "price": 24299.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Mercedes-Benz CLE Convertible AMG CLE 53",
       "vin": "W1KMK6CB5TF115518",
       "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/e324fc665a34.html",
@@ -5041,6 +5019,17 @@
       "model": "IONIQ 5",
       "condition": "new",
       "price": 82199.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Hyundai IONIQ 5 Ultimate AWD",
+      "vin": "KM8KRDDC2VU428870",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/new/40eb6b97659e.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "IONIQ 5",
+      "condition": "new",
+      "price": 66249.0,
       "price_currency": "CAD"
     },
     {
@@ -5184,6 +5173,39 @@
       "model": "Kona Electric",
       "condition": "new",
       "price": 46649.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Hyundai Kona Electric Preferred FWD w/Ultimate Package",
+      "vin": "KM8HE3A6XVU049548",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/new/08758abd3652.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Kona Electric",
+      "condition": "new",
+      "price": 51449.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Hyundai Kona Electric Preferred FWD w/Ultimate Package",
+      "vin": "KM8HE3A67VU049362",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/new/0e462bad80f8.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Kona Electric",
+      "condition": "new",
+      "price": 51099.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Hyundai Kona Electric Preferred FWD w/Ultimate Package",
+      "vin": "KM8HE3A65VU049490",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/new/67a80f0ca7d7.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Kona Electric",
+      "condition": "new",
+      "price": 51449.0,
       "price_currency": "CAD"
     },
     {
@@ -5451,6 +5473,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2027 Hyundai Kona 2.0L Preferred AWD w/Trend Package",
+      "vin": "KM8HCCABXVU537661",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/new/7f3011d353af.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Kona",
+      "condition": "new",
+      "price": 36049.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2027 Hyundai Palisade Hybrid Ultimate Calligraphy Night AWD",
       "vin": "KM8RMESA0VU129527",
       "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/new/06d652e8fb34.html",
@@ -5514,6 +5547,17 @@
       "model": "Palisade Hybrid",
       "condition": "new",
       "price": 69449.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Hyundai Palisade Hybrid Ultimate Calligraphy AWD",
+      "vin": "KM8RMESA0VU145209",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/new/b4402d08411b.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Palisade Hybrid",
+      "condition": "new",
+      "price": 69099.0,
       "price_currency": "CAD"
     },
     {
