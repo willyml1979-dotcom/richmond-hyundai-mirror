@@ -1,6 +1,6 @@
 {
   "dealership": "Richmond Hyundai",
-  "generated_at": "2026-10-26T00:07:35",
+  "generated_at": "2026-10-26T08:35:07",
   "vehicle_count": 515,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -347,14 +347,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2016 RAM 1500 Laramie Red",
+      "name": "2016 RAM 1500 Laramie",
       "vin": "1C6RR7NM5GS408016",
       "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/9691e192d377.html",
       "year": 2016,
       "make": "RAM",
       "model": "1500",
       "condition": "used",
-      "price": 25988.0,
+      "price": 27988.0,
       "price_currency": "CAD"
     },
     {
@@ -369,7 +369,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2016 Volvo XC90 T6 Inscription AWD | Wholesale To Public White",
+      "name": "2016 Volvo XC90 T6 Inscription AWD | Wholesale To Public",
       "vin": "YV4A22PL9G1035695",
       "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/ab719dc54913.html",
       "year": 2016,
@@ -402,7 +402,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2017 Dodge Journey Crossroad AWD | Wholesale To Public Gray",
+      "name": "2017 Dodge Journey Crossroad AWD | Wholesale To Public",
       "vin": "3C4PDDGG7HT615141",
       "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/2f84cc0cfd98.html",
       "year": 2017,
@@ -413,7 +413,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2017 Ford Escape Titanium Gray",
+      "name": "2017 Ford Escape Titanium",
       "vin": "1FMCU9J95HUA26693",
       "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/504d481d32cf.html",
       "year": 2017,
@@ -446,7 +446,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2017 Nissan Rogue SL Platinum White",
+      "name": "2017 Nissan Rogue SL Platinum",
       "vin": "5N1AT2MV3HC855925",
       "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/d20db3d91282.html",
       "year": 2017,
@@ -457,7 +457,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2017 Porsche Macan GTS GTS AWD | Wholesale To Public Gray",
+      "name": "2017 Porsche Macan GTS GTS AWD | Wholesale To Public",
       "vin": "WP1AG2A57HLB55997",
       "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/982b13459e1a.html",
       "year": 2017,
@@ -534,7 +534,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2018 Hyundai Santa Fe Sport Limited White",
+      "name": "2018 Hyundai Santa Fe Sport Limited",
       "vin": "5NMZUDLA0JH091523",
       "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/d0ff35bc4c86.html",
       "year": 2018,
@@ -589,7 +589,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Dodge Grand Caravan Passenger Van Crew Plus Red",
+      "name": "2019 Dodge Grand Caravan Passenger Van Crew Plus",
       "vin": "2C4RDGDG6KR687389",
       "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/242632228939.html",
       "year": 2019,
@@ -622,7 +622,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Hyundai Santa Fe Luxury AWD | Wholesale To Public Black",
+      "name": "2019 Hyundai Santa Fe Luxury AWD | Wholesale To Public",
       "vin": "5NMS3CAA0KH015044",
       "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/53ed9e11922d.html",
       "year": 2019,
@@ -633,18 +633,18 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Hyundai Santa Fe Luxury AWD | Wholesale To Public Gray",
+      "name": "2019 Hyundai Santa Fe Luxury AWD | Wholesale To Public",
       "vin": "5NMS3CAA4KH124896",
       "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/b38ed7d02545.html",
       "year": 2019,
       "make": "Hyundai",
       "model": "Santa Fe",
       "condition": "used",
-      "price": 17988.0,
+      "price": 16988.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Hyundai Santa Fe AWD Essential | Wholesale To Public White",
+      "name": "2019 Hyundai Santa Fe AWD Essential | Wholesale To Public",
       "vin": "5NMS2CAD0KH097760",
       "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/eab42d7334e5.html",
       "year": 2019,
@@ -655,7 +655,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Hyundai Santa Fe Ultimate White",
+      "name": "2019 Hyundai Santa Fe Ultimate",
       "vin": "5NMS5CAA8KH098443",
       "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/4db0be663b3c.html",
       "year": 2019,
@@ -732,14 +732,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Volkswagen Tiguan Highline | Wholesale To Public Black",
+      "name": "2019 Volkswagen Tiguan Highline | Wholesale To Public",
       "vin": "3VV4B7AX0KM180629",
       "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/19226af027a2.html",
       "year": 2019,
       "make": "Volkswagen",
       "model": "Tiguan",
       "condition": "used",
-      "price": 13988.0,
+      "price": 13488.0,
       "price_currency": "CAD"
     },
     {
