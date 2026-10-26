@@ -1,7 +1,7 @@
 {
   "dealership": "Richmond Hyundai",
-  "generated_at": "2026-10-25T14:33:46",
-  "vehicle_count": 511,
+  "generated_at": "2026-10-26T00:01:27",
+  "vehicle_count": 515,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -28,6 +28,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2003 GMC Envoy ",
+      "vin": "1GKET16P536198653",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/c68c5023e8ee.html",
+      "year": 2003,
+      "make": "GMC",
+      "model": "Envoy",
+      "condition": "used",
+      "price": 4988.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2004 Hyundai XG 350 GLS | Wholesale To Public",
       "vin": "KMHFU45E64A303063",
       "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/fe2cf58cf8af.html",
@@ -47,6 +58,17 @@
       "model": "Mazda3",
       "condition": "used",
       "price": 2999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2009 Hyundai Santa Fe GL",
+      "vin": "5NMSG13D09H303799",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/18e7209dd9fc.html",
+      "year": 2009,
+      "make": "Hyundai",
+      "model": "Santa Fe",
+      "condition": "used",
+      "price": 4988.0,
       "price_currency": "CAD"
     },
     {
@@ -127,29 +149,29 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2013 Dodge Journey Crew Gray",
+      "name": "2013 Dodge Journey Crew",
       "vin": "3C4PDCCG4DT603345",
       "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/52aa075c2af2.html",
       "year": 2013,
       "make": "Dodge",
-      "model": "Journey",
+      "model": "Journey Crew",
       "condition": "used",
       "price": 9988.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2013 Hyundai Santa Fe SE | Wholesale To Public Silver",
+      "name": "2013 Hyundai Santa Fe SE | Wholesale To Public",
       "vin": "5XYZUDLA5DG086106",
       "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/54872a574c28.html",
       "year": 2013,
       "make": "Hyundai",
       "model": "Santa Fe",
       "condition": "used",
-      "price": 10588.0,
+      "price": 10562.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2013 Mercedes-Benz C-Class Sedan C 300 4MATIC | Wholesale To Public Gray",
+      "name": "2013 Mercedes-Benz C-Class Sedan C 300 4MATIC | Wholesale To Public",
       "vin": "WDDGF8AB4DA772423",
       "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/a9e75d8bc1c2.html",
       "year": 2013,
@@ -160,7 +182,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2014 Hyundai Santa Fe Sport Limited Silver",
+      "name": "2014 Hyundai Santa Fe Sport Limited",
       "vin": "5XYZUDLA7EG145996",
       "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/abca409839b2.html",
       "year": 2014,
@@ -171,18 +193,18 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2014 RAM 1500 Longhorn Limited | Wholesale To Public Black",
+      "name": "2014 RAM 1500 Longhorn Limited | Wholesale To Public",
       "vin": "1C6RR7PM5ES336650",
       "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/e1c685df6bdd.html",
       "year": 2014,
       "make": "RAM",
       "model": "1500",
       "condition": "used",
-      "price": 14988.0,
+      "price": 13988.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2014 Subaru Forester i Touring Blue",
+      "name": "2014 Subaru Forester i Touring",
       "vin": "JF2SJCPC6EH533777",
       "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/4d54708da843.html",
       "year": 2014,
@@ -193,7 +215,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2014 Volkswagen Tiguan Wholesale To Public Silver",
+      "name": "2014 Volkswagen Tiguan Wholesale To Public",
       "vin": "WVGJV3AX1EW514877",
       "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/b73ab8f6f9d1.html",
       "year": 2014,
@@ -204,7 +226,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2015 Dodge Grand Caravan Passenger Van Canada Value Package | Whoelsale To Public Red",
+      "name": "2015 Dodge Grand Caravan Passenger Van Canada Value Package | Whoelsale To Public",
       "vin": "2C4RDGBG8FR559017",
       "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/8f23d998188c.html",
       "year": 2015,
@@ -215,29 +237,29 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2015 Fiat 500L Lounge Black",
+      "name": "2015 Fiat 500L Lounge",
       "vin": "ZFBCFACH9FZ035677",
       "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/6a4108f0fbbe.html",
       "year": 2015,
       "make": "Fiat",
-      "model": "500L Lounge Black",
+      "model": "500L Lounge",
       "condition": "used",
       "price": 9988.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2015 Hyundai Genesis Sedan Technology | Wholesale To Public Gray",
+      "name": "2015 Hyundai Genesis Sedan Technology | Wholesale To Public",
       "vin": "KMHGN4JE9FU072488",
       "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/d0a98be16411.html",
       "year": 2015,
       "make": "Hyundai",
       "model": "Genesis Sedan Technology",
       "condition": "used",
-      "price": 12998.0,
+      "price": 13988.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2015 Hyundai Tucson GLS Black",
+      "name": "2015 Hyundai Tucson GLS",
       "vin": "KM8JU3AG1FU002553",
       "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/e3ec67787fa4.html",
       "year": 2015,
@@ -259,7 +281,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2016 BMW X1 xDrive28i White",
+      "name": "2016 BMW X1 xDrive28i",
       "vin": "WBXHT3C32GP886974",
       "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/f9afbc0253c4.html",
       "year": 2016,
@@ -281,14 +303,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2016 Jeep Patriot 75th Anniversary | Wholesale To Public Green",
+      "name": "2016 Jeep Patriot 75th Anniversary | Wholesale To Public",
       "vin": "1C4NJRAB2GD752678",
       "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/805d34ea769f.html",
       "year": 2016,
       "make": "Jeep",
       "model": "Patriot",
       "condition": "used",
-      "price": 11988.0,
+      "price": 9988.0,
       "price_currency": "CAD"
     },
     {
@@ -314,14 +336,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2016 Nissan Pathfinder S 2WD 4dr | wholesale To Public Black",
+      "name": "2016 Nissan Pathfinder S 2WD 4dr | wholesale To Public",
       "vin": "5N1AR2MN8GC669326",
       "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/9577361fa63d.html",
       "year": 2016,
       "make": "Nissan",
       "model": "Pathfinder",
       "condition": "used",
-      "price": 14988.0,
+      "price": 13588.0,
       "price_currency": "CAD"
     },
     {
@@ -1425,6 +1447,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2024 Hyundai Kona Preferred",
+      "vin": "KM8HCCAB5RU068789",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/7cba6475496b.html",
+      "year": 2024,
+      "make": "Hyundai",
+      "model": "Kona",
+      "condition": "used",
+      "price": 24988.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2024 Hyundai Palisade Urban",
       "vin": "KM8R3DGE8RU751419",
       "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/be5dbd58e1b2.html",
@@ -1763,6 +1796,17 @@
       "model": "Santa Fe",
       "condition": "used",
       "price": 56999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Hyundai Santa Fe Ultimate Calligraphy",
+      "vin": "5NMP5DGL5SH118961",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/55e6a0208c7a.html",
+      "year": 2025,
+      "make": "Hyundai",
+      "model": "Santa Fe",
+      "condition": "used",
+      "price": 44988.0,
       "price_currency": "CAD"
     },
     {
