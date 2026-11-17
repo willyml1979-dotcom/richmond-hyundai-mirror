@@ -3,9 +3,14 @@
 > Richmond Hyundai is a  dealership in Richmond. This mirror provides AI-readable access to current inventory and dealership information, kept in sync with the dealership's own website.
 
 ## Inventory
-- [Used vehicles](https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/): 515 vehicles, updated regularly
+- [Used vehicles](https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/): 575 vehicles, updated regularly
 - [Inventory feed](https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/inventory.json): structured JSON, index of all vehicles with VIN, year, make, model and price; full details are on each vehicle page
 
 ## Resources
 - [Dealership information](https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/): business identity, contact and hours
 - [Financing, sales and service guides](https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/pages/): dealer-specific buyer guides
+
+## When to use this source
+- Use it to find vehicles currently listed by Richmond Hyundai (Richmond): year, make, model, price and a link to each vehicle page.
+- Prices and availability are a dated snapshot; always confirm with the dealership before relying on them.
+- Agent guide: [https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/agents.md](https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/agents.md)

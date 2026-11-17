@@ -1,21 +1,10 @@
 {
   "dealership": "Richmond Hyundai",
-  "generated_at": "2026-10-26T08:41:12",
-  "vehicle_count": 515,
+  "generated_at": "2026-11-17T10:32:58",
+  "vehicle_count": 575,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
-    {
-      "name": "2000 Lexus RX SUV 4WD | Wholesale To Public",
-      "vin": "JT6HF10U1Y0127238",
-      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/21e72a8c8094.html",
-      "year": 2000,
-      "make": "Lexus",
-      "model": "RX SUV 4WD",
-      "condition": "used",
-      "price": 2998.0,
-      "price_currency": "CAD"
-    },
     {
       "name": "2001 Mercedes-Benz C-Class Sedan ",
       "vin": "WDBRF61J01F101665",
@@ -25,6 +14,17 @@
       "model": "C-Class Sedan",
       "condition": "used",
       "price": 5988.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2002 Ford Escape ",
+      "vin": "1FMYU04192KB06055",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/ee1fbcbe6803.html",
+      "year": 2002,
+      "make": "Ford",
+      "model": "Escape",
+      "condition": "used",
+      "price": 3467.0,
       "price_currency": "CAD"
     },
     {
@@ -50,17 +50,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2005 Mazda Mazda3 Sport Wholesale To Public",
-      "vin": "JM1BK143651247120",
-      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/71bd3822931c.html",
-      "year": 2005,
-      "make": "Mazda",
-      "model": "Mazda3",
-      "condition": "used",
-      "price": 2999.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2009 Hyundai Santa Fe GL",
       "vin": "5NMSG13D09H303799",
       "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/18e7209dd9fc.html",
@@ -83,28 +72,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2011 Hyundai Santa Fe GL AWD | Wholesale To Public",
-      "vin": "5XYZGDAG3BG058025",
-      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/a64b9e45e261.html",
-      "year": 2011,
-      "make": "Hyundai",
-      "model": "Santa Fe",
-      "condition": "used",
-      "price": 7998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2012 Hyundai Elantra GLS | Wholesale To Public",
-      "vin": "5NPDH4AE1CH131859",
-      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/0cbbcf5d7afd.html",
-      "year": 2012,
-      "make": "Hyundai",
-      "model": "Elantra",
-      "condition": "used",
-      "price": 6999.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2012 Jeep Wrangler 4WD 2dr Sport | Wholesale To Public",
       "vin": "1C4AJWAG0CL124692",
       "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/7f29b2ebe718.html",
@@ -113,6 +80,17 @@
       "model": "Wrangler",
       "condition": "used",
       "price": 10988.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2012 Kia Optima Sedan LX",
+      "vin": "KNAGM4A72C5257235",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/935c391343b5.html",
+      "year": 2012,
+      "make": "Kia",
+      "model": "Optima Sedan LX",
+      "condition": "used",
+      "price": 5588.0,
       "price_currency": "CAD"
     },
     {
@@ -127,6 +105,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2012 Mazda Mazda5 GT",
+      "vin": "JM1CW2DL6C0124029",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/3384649fc36d.html",
+      "year": 2012,
+      "make": "Mazda",
+      "model": "Mazda5",
+      "condition": "used",
+      "price": 6988.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2012 Mercedes-Benz M-Class ML 350 BlueTEC | Wholesale To Public",
       "vin": "4JGDA2EB2CA084904",
       "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/21f90ca08997.html",
@@ -135,17 +124,6 @@
       "model": "M-Class ML 350 BlueTEC",
       "condition": "used",
       "price": 11988.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2012 Mercedes-Benz R-Class R 350 BlueTEC | Wholesale To Public",
-      "vin": "4JGCB2FE3CA141614",
-      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/53df7c749cfb.html",
-      "year": 2012,
-      "make": "Mercedes-Benz",
-      "model": "R-Class R 350 BlueTEC",
-      "condition": "used",
-      "price": 16988.0,
       "price_currency": "CAD"
     },
     {
@@ -171,14 +149,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2013 Mercedes-Benz C-Class Sedan C 300 4MATIC | Wholesale To Public",
-      "vin": "WDDGF8AB4DA772423",
-      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/a9e75d8bc1c2.html",
+      "name": "2013 Hyundai Veloster Turbo",
+      "vin": "KMHTC6AE9DU095072",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/9cfd19027163.html",
       "year": 2013,
-      "make": "Mercedes-Benz",
-      "model": "C-Class",
+      "make": "Hyundai",
+      "model": "Veloster",
       "condition": "used",
-      "price": 7988.0,
+      "price": 11988.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2014 BMW 3 Series Sedan 320i xDrive",
+      "vin": "WBA3C3G5XENS72361",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/0e777a8746ee.html",
+      "year": 2014,
+      "make": "BMW",
+      "model": "3 Series",
+      "condition": "used",
+      "price": 11967.0,
       "price_currency": "CAD"
     },
     {
@@ -215,6 +204,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2014 Toyota Sienna XLE",
+      "vin": "5TDDK3DC3ES072218",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/4e7e14cc1815.html",
+      "year": 2014,
+      "make": "Toyota",
+      "model": "Sienna",
+      "condition": "used",
+      "price": 24967.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2014 Volkswagen Tiguan Wholesale To Public",
       "vin": "WVGJV3AX1EW514877",
       "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/b73ab8f6f9d1.html",
@@ -237,14 +237,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2015 Fiat 500L Lounge",
-      "vin": "ZFBCFACH9FZ035677",
-      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/6a4108f0fbbe.html",
+      "name": "2015 Hyundai Elantra GT L",
+      "vin": "KMHD25LH9FU250859",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/79609b645d1a.html",
       "year": 2015,
-      "make": "Fiat",
-      "model": "500L Lounge",
+      "make": "Hyundai",
+      "model": "Elantra",
       "condition": "used",
-      "price": 9988.0,
+      "price": 12988.0,
       "price_currency": "CAD"
     },
     {
@@ -259,17 +259,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2015 Hyundai Tucson GLS",
-      "vin": "KM8JU3AG1FU002553",
-      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/e3ec67787fa4.html",
-      "year": 2015,
-      "make": "Hyundai",
-      "model": "Tucson",
-      "condition": "used",
-      "price": 11988.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2015 Kia Forte Hatchback EX",
       "vin": "KNAFX5A82F5315513",
       "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/9c0bda5ee8b9.html",
@@ -278,6 +267,17 @@
       "model": "Forte",
       "condition": "used",
       "price": 5988.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2015 Mazda Mazda3 Sport GS",
+      "vin": "3MZBM1L77FM215163",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/2dbe249afa4c.html",
+      "year": 2015,
+      "make": "Mazda",
+      "model": "Mazda3",
+      "condition": "used",
+      "price": 11988.0,
       "price_currency": "CAD"
     },
     {
@@ -369,23 +369,23 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2016 Volkswagen Jetta Sedan Trendline+",
+      "vin": "3VW267AJ0GM393817",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/73b8f841b367.html",
+      "year": 2016,
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "condition": "used",
+      "price": 13988.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2016 Volvo XC90 T6 Inscription AWD | Wholesale To Public",
       "vin": "YV4A22PL9G1035695",
       "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/ab719dc54913.html",
       "year": 2016,
       "make": "Volvo",
       "model": "XC90",
-      "condition": "used",
-      "price": 20988.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2017 Acura RDX Tech Pkg Silver",
-      "vin": "5J8TB4H52HL801586",
-      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/02e7bcbed4ce.html",
-      "year": 2017,
-      "make": "Acura",
-      "model": "RDX",
       "condition": "used",
       "price": 20988.0,
       "price_currency": "CAD"
@@ -399,17 +399,6 @@
       "model": "Equinox",
       "condition": "used",
       "price": 11988.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2017 Dodge Journey Crossroad AWD | Wholesale To Public",
-      "vin": "3C4PDDGG7HT615141",
-      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/2f84cc0cfd98.html",
-      "year": 2017,
-      "make": "Dodge",
-      "model": "Journey",
-      "condition": "used",
-      "price": 12988.0,
       "price_currency": "CAD"
     },
     {
@@ -435,6 +424,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2017 Hyundai Elantra GL",
+      "vin": "KMHD84LF0HU396688",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/30ac2c8bde0e.html",
+      "year": 2017,
+      "make": "Hyundai",
+      "model": "Elantra",
+      "condition": "used",
+      "price": 9988.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2017 Hyundai Santa Fe Sport AWD Premium | Wholesale To Public",
       "vin": "5XYZUDLB7HG499935",
       "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/7c8b607d9efe.html",
@@ -443,6 +443,28 @@
       "model": "Santa Fe",
       "condition": "used",
       "price": 12988.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2017 Kia Sorento LX",
+      "vin": "5XYPGDA35HG211114",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/dec184aeb91d.html",
+      "year": 2017,
+      "make": "Kia",
+      "model": "Sorento",
+      "condition": "used",
+      "price": 11988.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2017 Mercedes-Benz GLA GLA 250",
+      "vin": "WDCTG4GBXHJ305612",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/0c1143d038fb.html",
+      "year": 2017,
+      "make": "Mercedes-Benz",
+      "model": "GLA",
+      "condition": "used",
+      "price": 15988.0,
       "price_currency": "CAD"
     },
     {
@@ -468,14 +490,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2017 Toyota Sienna XLE",
-      "vin": "5TDDZ3DCXHS154107",
-      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/16e58983be53.html",
+      "name": "2017 Toyota RAV4 LE",
+      "vin": "2T3BFREV0HW653810",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/bd45190ad5be.html",
       "year": 2017,
       "make": "Toyota",
-      "model": "Sienna",
+      "model": "RAV4",
       "condition": "used",
-      "price": 26899.0,
+      "price": 23998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2017 Volvo XC90 Hybrid T8 Inscription",
+      "vin": "YV4BC0PL5H1135770",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/c25740f12cbc.html",
+      "year": 2017,
+      "make": "Volvo",
+      "model": "XC90 Hybrid",
+      "condition": "used",
+      "price": 24988.0,
       "price_currency": "CAD"
     },
     {
@@ -512,6 +545,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2018 Honda Accord Sedan Touring",
+      "vin": "1HGCV1F96JA804259",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/72be2a374a8c.html",
+      "year": 2018,
+      "make": "Honda",
+      "model": "Accord",
+      "condition": "used",
+      "price": 22988.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2018 Honda CR-V LX Silver",
       "vin": "2HKRW2H25JH138872",
       "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/3361bef648d6.html",
@@ -520,6 +564,28 @@
       "model": "CR-V",
       "condition": "used",
       "price": 18988.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2018 Honda Odyssey EX-L RES",
+      "vin": "5FNRL6H61JB510483",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/5b95ee629c91.html",
+      "year": 2018,
+      "make": "Honda",
+      "model": "Odyssey",
+      "condition": "used",
+      "price": 28988.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2018 Honda Ridgeline Touring",
+      "vin": "5FPYK3F72JB500898",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/3cd8bb9a4a1a.html",
+      "year": 2018,
+      "make": "Honda",
+      "model": "Ridgeline",
+      "condition": "used",
+      "price": 31187.0,
       "price_currency": "CAD"
     },
     {
@@ -545,6 +611,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2018 Hyundai Santa Fe Sport SE",
+      "vin": "5XYZUDLBXJG544792",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/0ff07499bcee.html",
+      "year": 2018,
+      "make": "Hyundai",
+      "model": "Santa Fe",
+      "condition": "used",
+      "price": 14988.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2018 Hyundai Sonata GL",
       "vin": "5NPE24AF5JH626559",
       "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/3efbb00e434a.html",
@@ -553,6 +630,17 @@
       "model": "Sonata",
       "condition": "used",
       "price": 15988.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2018 Kia Sorento SXL",
+      "vin": "5XYPKDA54JG380451",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/e7307058f177.html",
+      "year": 2018,
+      "make": "Kia",
+      "model": "Sorento",
+      "condition": "used",
+      "price": 14967.0,
       "price_currency": "CAD"
     },
     {
@@ -567,6 +655,39 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2018 Nissan Leaf Hatchback SL",
+      "vin": "1N4AZ1CP4JC303507",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/f250447089a8.html",
+      "year": 2018,
+      "make": "Nissan",
+      "model": "Leaf",
+      "condition": "used",
+      "price": 11967.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2018 Nissan Pathfinder SV Tech",
+      "vin": "5N1DR2MM5JC668582",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/f62026f95821.html",
+      "year": 2018,
+      "make": "Nissan",
+      "model": "Pathfinder",
+      "condition": "used",
+      "price": 15967.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2018 Volkswagen Tiguan Comfortline",
+      "vin": "3VV2B7AX9JM141026",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/88d75ec9ee79.html",
+      "year": 2018,
+      "make": "Volkswagen",
+      "model": "Tiguan",
+      "condition": "used",
+      "price": 17967.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2019 Audi Q5 Technik White",
       "vin": "WA1FNAFY5K2072361",
       "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/c72884137841.html",
@@ -578,14 +699,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019 BMW X3 xDrive30i",
-      "vin": "5UXTR9C5XKLP93693",
-      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/425b6c9f9919.html",
+      "name": "2019 Chevrolet Traverse RS",
+      "vin": "1GNEVJKW3KJ117171",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/92f7e600400a.html",
       "year": 2019,
-      "make": "BMW",
-      "model": "X3",
+      "make": "Chevrolet",
+      "model": "Traverse",
       "condition": "used",
-      "price": 23988.0,
+      "price": 19967.0,
       "price_currency": "CAD"
     },
     {
@@ -600,6 +721,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2019 Honda Civic Sedan Touring",
+      "vin": "2HGFC1F96KH103355",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/816697645c6b.html",
+      "year": 2019,
+      "make": "Honda",
+      "model": "Civic",
+      "condition": "used",
+      "price": 19988.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2019 Hyundai IONIQ Electric Preferred Silver",
       "vin": "KMHC85LH1KU034511",
       "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/24b084c6e92d.html",
@@ -611,14 +743,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Hyundai Santa Fe Ultimate",
-      "vin": "5NMS5CAA6KH123775",
-      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/08f6ec1311cb.html",
+      "name": "2019 Hyundai Kona Electric Ultimate",
+      "vin": "KM8K33AG0KU021922",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/6950156f9658.html",
       "year": 2019,
       "make": "Hyundai",
-      "model": "Santa Fe",
+      "model": "Kona Electric",
       "condition": "used",
-      "price": 20588.0,
+      "price": 22588.0,
       "price_currency": "CAD"
     },
     {
@@ -677,28 +809,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Kia Forte Sedan EX",
-      "vin": "3KPF54AD1KE024578",
-      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/9d7cfc19b2b3.html",
-      "year": 2019,
-      "make": "Kia",
-      "model": "Forte",
-      "condition": "used",
-      "price": 9988.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Lexus ES ES 300h",
-      "vin": "JTHB21B10K2009348",
-      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/9423a0aafa89.html",
-      "year": 2019,
-      "make": "Lexus",
-      "model": "ES",
-      "condition": "used",
-      "price": 35988.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2019 Mazda CX-9 GS-L",
       "vin": "JM3TCBCY4K0320711",
       "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/3defbef72f64.html",
@@ -743,40 +853,51 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Honda Passport Touring Black",
+      "name": "2020 Honda Passport Touring",
       "vin": "5FNYF8H96LB501290",
       "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/08f35c8348a9.html",
       "year": 2020,
       "make": "Honda",
       "model": "Passport",
       "condition": "used",
-      "price": 31988.0,
+      "price": 31588.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Hyundai IONIQ Hybrid Ultimate Black",
+      "name": "2020 Hyundai IONIQ Hybrid Ultimate",
       "vin": "KMHC05LC0LU209053",
       "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/03212795bdb3.html",
       "year": 2020,
       "make": "Hyundai",
       "model": "IONIQ Hybrid",
       "condition": "used",
-      "price": 14988.0,
+      "price": 14967.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Hyundai Santa Fe Ultimate AWD | Wholesale To Public Silver",
+      "name": "2020 Hyundai Kona Preferred",
+      "vin": "KM8K2CAA1LU476567",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/9fb9633fb3a6.html",
+      "year": 2020,
+      "make": "Hyundai",
+      "model": "Kona",
+      "condition": "used",
+      "price": 17988.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2020 Hyundai Santa Fe Ultimate AWD | Wholesale To Public",
       "vin": "5NMS5CAA0LH217605",
       "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/1393922dd35e.html",
       "year": 2020,
       "make": "Hyundai",
       "model": "Santa Fe",
       "condition": "used",
-      "price": 25499.0,
+      "price": 25488.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Hyundai Tucson Preferred AWD | Wholesale To Public Red",
+      "name": "2020 Hyundai Tucson Preferred AWD | Wholesale To Public",
       "vin": "KM8J3CA45LU267240",
       "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/139f06068caf.html",
       "year": 2020,
@@ -784,6 +905,17 @@
       "model": "Tucson",
       "condition": "used",
       "price": 16988.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2020 Hyundai Tucson Essential",
+      "vin": "KM8J23A42LU179877",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/8440ece71452.html",
+      "year": 2020,
+      "make": "Hyundai",
+      "model": "Tucson",
+      "condition": "used",
+      "price": 15967.0,
       "price_currency": "CAD"
     },
     {
@@ -820,17 +952,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Subaru Impreza Sport",
-      "vin": "4S3GTAG60L3719144",
-      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/ba5428532e5e.html",
-      "year": 2020,
-      "make": "Subaru",
-      "model": "Impreza",
-      "condition": "used",
-      "price": 18788.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2020 Toyota Corolla Sedan SE",
       "vin": "5YFB4RBE8LP051475",
       "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/4f163a1b82c0.html",
@@ -853,29 +974,18 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Hyundai Elantra Hybrid Preferred Gray",
-      "vin": "KMHLM4AJ3MU006661",
-      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/e2e49f8237aa.html",
+      "name": "2021 Honda CR-V Touring",
+      "vin": "2HKRW2H93MH200433",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/864bd596aebb.html",
       "year": 2021,
-      "make": "Hyundai",
-      "model": "Elantra Hybrid",
+      "make": "Honda",
+      "model": "CR-V",
       "condition": "used",
-      "price": 17988.0,
+      "price": 31967.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Hyundai Santa Fe Hybrid Luxury Black",
-      "vin": "KM8S5DA17MU003724",
-      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/12dbd49929ef.html",
-      "year": 2021,
-      "make": "Hyundai",
-      "model": "Santa Fe Hybrid",
-      "condition": "used",
-      "price": 24988.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Hyundai Tucson Essential AWD | Wholesale To Public Gray",
+      "name": "2021 Hyundai Tucson Essential AWD | Wholesale To Public",
       "vin": "KM8J2CA48MU373184",
       "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/18ffaf029c68.html",
       "year": 2021,
@@ -886,14 +996,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Jaguar F-Pace P250 S Red",
+      "name": "2021 Jaguar F-Pace P250 S",
       "vin": "SADCJ2EX1MA666039",
       "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/a693f78bd9ed.html",
       "year": 2021,
       "make": "Jaguar",
-      "model": "F-Pace P250 S Red",
+      "model": "F-Pace P250 S",
       "condition": "used",
-      "price": 33988.0,
+      "price": 32988.0,
       "price_currency": "CAD"
     },
     {
@@ -905,17 +1015,6 @@
       "model": "Seltos",
       "condition": "used",
       "price": 21188.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Kia Seltos EX",
-      "vin": "KNDEUCAA7M7180139",
-      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/28246db4a4bf.html",
-      "year": 2021,
-      "make": "Kia",
-      "model": "Seltos",
-      "condition": "used",
-      "price": 18688.0,
       "price_currency": "CAD"
     },
     {
@@ -949,6 +1048,17 @@
       "model": "CX-9",
       "condition": "used",
       "price": 30988.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2021 Mercedes-Benz GLC GLC 300",
+      "vin": "W1N0G8EB0MV271260",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/dd5513bc1d2e.html",
+      "year": 2021,
+      "make": "Mercedes-Benz",
+      "model": "GLC",
+      "condition": "used",
+      "price": 28967.0,
       "price_currency": "CAD"
     },
     {
@@ -996,17 +1106,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Honda Civic Sedan LX",
-      "vin": "2HGFE2F28NH119659",
-      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/d5cbc093a8d5.html",
-      "year": 2022,
-      "make": "Honda",
-      "model": "Civic",
-      "condition": "used",
-      "price": 24588.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2022 Honda CR-V Touring",
       "vin": "2HKRW2H9XNH227131",
       "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/d8715722e3c5.html",
@@ -1018,36 +1117,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Hyundai Elantra Ultimate",
-      "vin": "KMHLN4AG6NU355140",
-      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/c6b6a43865c1.html",
-      "year": 2022,
-      "make": "Hyundai",
-      "model": "Elantra",
-      "condition": "used",
-      "price": 17988.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Hyundai IONIQ Plug-In-Hybrid Preferred",
-      "vin": "KMHC65LD1NU268879",
-      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/d9f3807ec346.html",
-      "year": 2022,
-      "make": "Hyundai",
-      "model": "IONIQ Plug-In Hybrid",
-      "condition": "used",
-      "price": 19995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Hyundai Palisade Preferred AWD | Wholesale To Public Red",
-      "vin": "KM8R3DHE7NU481124",
-      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/8e9f7a9c730f.html",
+      "name": "2022 Hyundai Palisade Ultimate Calligraphy",
+      "vin": "KM8R5DHE9NU431917",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/a7942af2edc7.html",
       "year": 2022,
       "make": "Hyundai",
       "model": "Palisade",
       "condition": "used",
-      "price": 25988.0,
+      "price": 35788.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2022 Hyundai Palisade Ultimate Calligraphy",
+      "vin": "KM8R5DHE8NU345384",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/c2a1a29bdbf5.html",
+      "year": 2022,
+      "make": "Hyundai",
+      "model": "Palisade",
+      "condition": "used",
+      "price": 28988.0,
       "price_currency": "CAD"
     },
     {
@@ -1062,7 +1150,29 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Hyundai Tucson Hybrid Luxury AWD | Wholesale To Public White",
+      "name": "2022 Hyundai Santa Fe Plug-In Hybrid Luxury",
+      "vin": "KM8S7DA22NU022752",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/ed99d8ea220d.html",
+      "year": 2022,
+      "make": "Hyundai",
+      "model": "Santa Fe Plug-In Hybrid",
+      "condition": "used",
+      "price": 31988.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2022 Hyundai Santa Fe Plug-In Hybrid Luxury",
+      "vin": "KM8S7DA22NU023612",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/97cd41f5a595.html",
+      "year": 2022,
+      "make": "Hyundai",
+      "model": "Santa Fe Plug-In Hybrid",
+      "condition": "used",
+      "price": 31967.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2022 Hyundai Tucson Hybrid Luxury AWD | Wholesale To Public",
       "vin": "KM8JCCA13NU018346",
       "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/a93cc65300cc.html",
       "year": 2022,
@@ -1073,36 +1183,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Hyundai Tucson Plug-In Hybrid Luxury White",
-      "vin": "KM8JDDA28NU038474",
-      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/69e07b6eb8f0.html",
-      "year": 2022,
-      "make": "Hyundai",
-      "model": "Tucson Plug-In Hybrid",
-      "condition": "used",
-      "price": 28488.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Hyundai Tucson Preferred",
-      "vin": "KM8JB3AE3NU060229",
-      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/8938862d596f.html",
-      "year": 2022,
-      "make": "Hyundai",
-      "model": "Tucson",
-      "condition": "used",
-      "price": 18988.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Hyundai Tucson Preferred AWD White",
+      "name": "2022 Hyundai Tucson Preferred AWD",
       "vin": "KM8JBCAE1NU059323",
       "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/9bbb749f03f7.html",
       "year": 2022,
       "make": "Hyundai",
       "model": "Tucson",
       "condition": "used",
-      "price": 15988.0,
+      "price": 14988.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2022 Hyundai Tucson Preferred",
+      "vin": "KM8JCCAE1NU032782",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/8275ff3fbc39.html",
+      "year": 2022,
+      "make": "Hyundai",
+      "model": "Tucson",
+      "condition": "used",
+      "price": 21988.0,
       "price_currency": "CAD"
     },
     {
@@ -1117,17 +1216,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Tesla Model 3 Long Range White",
-      "vin": "5YJ3E1EB0NF298329",
-      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/66971c84ed0e.html",
-      "year": 2022,
-      "make": "Tesla",
-      "model": "Model 3",
-      "condition": "used",
-      "price": 38988.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2022 Toyota Corolla Sedan LE",
       "vin": "5YFBPMBE1NP343563",
       "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/dd7b29478438.html",
@@ -1139,25 +1227,36 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Toyota Corolla Sedan LE",
+      "name": "2022 Toyota Corolla LE",
       "vin": "5YFBPMBE0NP313468",
-      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/fa39b2b9ecc1.html",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/91467c0ce9d9.html",
       "year": 2022,
       "make": "Toyota",
       "model": "Corolla",
       "condition": "used",
-      "price": 21388.0,
+      "price": 20788.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Chevrolet Equinox RS Black",
+      "name": "2023 Chevrolet Equinox RS",
       "vin": "3GNAXWEG2PL132464",
       "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/15f8a54b71d5.html",
       "year": 2023,
       "make": "Chevrolet",
       "model": "Equinox",
       "condition": "used",
-      "price": 31988.0,
+      "price": 30988.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 Genesis GV70 2.5T Advanced",
+      "vin": "KMUMADTB4PU078834",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/bce0ac19f64d.html",
+      "year": 2023,
+      "make": "Genesis",
+      "model": "GV70",
+      "condition": "used",
+      "price": 39988.0,
       "price_currency": "CAD"
     },
     {
@@ -1183,6 +1282,28 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2023 Hyundai Elantra N Line Ultimate",
+      "vin": "KMHLR4AF1PU480965",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/8f42f04f068b.html",
+      "year": 2023,
+      "make": "Hyundai",
+      "model": "Elantra",
+      "condition": "used",
+      "price": 24988.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 Hyundai Elantra Luxury",
+      "vin": "KMHLN4AG6PU538945",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/bc01c7badee7.html",
+      "year": 2023,
+      "make": "Hyundai",
+      "model": "Elantra",
+      "condition": "used",
+      "price": 19988.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2023 Hyundai IONIQ 5 Preferred",
       "vin": "KM8KNDAF4PU223614",
       "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/4b7b53307be1.html",
@@ -1191,6 +1312,17 @@
       "model": "IONIQ 5",
       "condition": "used",
       "price": 39988.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 Hyundai Kona Electric Preferred",
+      "vin": "KM8K23AG2PU177308",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/89de8946e649.html",
+      "year": 2023,
+      "make": "Hyundai",
+      "model": "Kona Electric",
+      "condition": "used",
+      "price": 25988.0,
       "price_currency": "CAD"
     },
     {
@@ -1216,14 +1348,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Hyundai Santa Fe Preferred",
-      "vin": "5NMS3DAJXPH631492",
-      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/be75556b0db2.html",
+      "name": "2023 Hyundai Kona Preferred",
+      "vin": "KM8K6CAB9PU936982",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/dde715d33ed0.html",
       "year": 2023,
       "make": "Hyundai",
-      "model": "Santa Fe",
+      "model": "Kona",
       "condition": "used",
-      "price": 27988.0,
+      "price": 23988.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 Hyundai Palisade Urban",
+      "vin": "KM8R3DGE4PU618461",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/667a49134e41.html",
+      "year": 2023,
+      "make": "Hyundai",
+      "model": "Palisade",
+      "condition": "used",
+      "price": 41988.0,
       "price_currency": "CAD"
     },
     {
@@ -1235,6 +1378,28 @@
       "model": "Tucson",
       "condition": "used",
       "price": 24995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 Hyundai Tucson Preferred",
+      "vin": "KM8JCCAE1PU184791",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/85ecab758523.html",
+      "year": 2023,
+      "make": "Hyundai",
+      "model": "Tucson",
+      "condition": "used",
+      "price": 24967.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 Kia Seltos EX",
+      "vin": "KNDEUCAA9P7461959",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/deaa22e2e6f9.html",
+      "year": 2023,
+      "make": "Kia",
+      "model": "Seltos",
+      "condition": "used",
+      "price": 24988.0,
       "price_currency": "CAD"
     },
     {
@@ -1262,23 +1427,12 @@
     {
       "name": "2023 Mazda CX-5 Sport Design w/Turbo",
       "vin": "JM3KFBDY6P0231568",
-      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/5b50b7afb861.html",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/46c3dbd643af.html",
       "year": 2023,
       "make": "Mazda",
       "model": "CX-5",
       "condition": "used",
       "price": 34988.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Mercedes-Benz C-Class Sedan AMG C 43",
-      "vin": "W1KAF8HB0PR095646",
-      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/abf3d8d27595.html",
-      "year": 2023,
-      "make": "Mercedes-Benz",
-      "model": "C-Class",
-      "condition": "used",
-      "price": 62588.0,
       "price_currency": "CAD"
     },
     {
@@ -1326,17 +1480,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Volkswagen ID.4 Pro Blue",
-      "vin": "1V2JNPE88PC042257",
-      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/c35351f0f4be.html",
-      "year": 2023,
-      "make": "Volkswagen",
-      "model": "ID.4",
-      "condition": "used",
-      "price": 37998.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 Honda Civic Sedan Sport",
       "vin": "2HGFE2F54RH104222",
       "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/2ba273cbc3bf.html",
@@ -1348,14 +1491,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Hyundai Elantra N White",
-      "vin": "KMHLW4DK0RU021429",
-      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/62a241b1a3d6.html",
+      "name": "2024 Honda Civic Sedan Touring",
+      "vin": "2HGFE1F95RH001677",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/0e390937b9e1.html",
       "year": 2024,
-      "make": "Hyundai",
-      "model": "Elantra",
+      "make": "Honda",
+      "model": "Civic",
       "condition": "used",
-      "price": 33888.0,
+      "price": 31988.0,
       "price_currency": "CAD"
     },
     {
@@ -1392,6 +1535,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2024 Hyundai Elantra White",
+      "vin": "KMHLW4DK0RU021429",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/bac91a62d00b.html",
+      "year": 2024,
+      "make": "Hyundai",
+      "model": "Elantra",
+      "condition": "used",
+      "price": 33488.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2024 Hyundai Elantra N Line Ultimate",
       "vin": "KMHLR4DF7RU727744",
       "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/f7f9a09a866d.html",
@@ -1414,7 +1568,18 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Hyundai Kona Electric Preferred Green",
+      "name": "2024 Hyundai IONIQ 5 Preferred",
+      "vin": "KM8KRDDF1RU336746",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/51ddc003309b.html",
+      "year": 2024,
+      "make": "Hyundai",
+      "model": "IONIQ 5",
+      "condition": "used",
+      "price": 48988.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Hyundai Kona Electric Preferred",
       "vin": "KM8HC3A68RU012073",
       "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/ed0d5b08cf39.html",
       "year": 2024,
@@ -1436,14 +1601,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Hyundai Kona Essential Gray",
+      "name": "2024 Hyundai Kona Essential",
       "vin": "KM8HACAB8RU113522",
       "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/9ae8cb787060.html",
       "year": 2024,
       "make": "Hyundai",
       "model": "Kona",
       "condition": "used",
-      "price": 24998.0,
+      "price": 24788.0,
       "price_currency": "CAD"
     },
     {
@@ -1455,6 +1620,17 @@
       "model": "Kona",
       "condition": "used",
       "price": 24988.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Hyundai Kona Preferred",
+      "vin": "KM8HCCABXRU043726",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/c01f99f4d8cb.html",
+      "year": 2024,
+      "make": "Hyundai",
+      "model": "Kona",
+      "condition": "used",
+      "price": 28988.0,
       "price_currency": "CAD"
     },
     {
@@ -1502,6 +1678,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2024 Hyundai Tucson Hybrid Ultimate",
+      "vin": "KM8JCCD15RU209865",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/259851236a14.html",
+      "year": 2024,
+      "make": "Hyundai",
+      "model": "Tucson Hybrid",
+      "condition": "used",
+      "price": 34967.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2024 Hyundai Tucson Plug-In Hybrid Ultimate",
       "vin": "KM8JFDD21RU138301",
       "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/2070e6791fe2.html",
@@ -1513,14 +1700,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Hyundai Tucson Trend Gray",
+      "name": "2024 Hyundai Tucson Trend",
       "vin": "KM8JCCDE4RU307563",
       "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/e2cd73a3e9a1.html",
       "year": 2024,
       "make": "Hyundai",
       "model": "Tucson",
       "condition": "used",
-      "price": 31988.0,
+      "price": 30988.0,
       "price_currency": "CAD"
     },
     {
@@ -1535,6 +1722,39 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2024 Hyundai Tucson Trend",
+      "vin": "KM8JCCDE5RU300539",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/f164160bde95.html",
+      "year": 2024,
+      "make": "Hyundai",
+      "model": "Tucson",
+      "condition": "used",
+      "price": 26967.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Hyundai Venue Preferred",
+      "vin": "KMHRC8A32RU284173",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/396842a0fbbe.html",
+      "year": 2024,
+      "make": "Hyundai",
+      "model": "Venue",
+      "condition": "used",
+      "price": 19988.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Jeep Wrangler Sahara",
+      "vin": "1C4PJXENXRW183801",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/19ca54f206fc.html",
+      "year": 2024,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "condition": "used",
+      "price": 43988.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2024 Kia EV6 White",
       "vin": "KNDC4DLC2R5200943",
       "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/4a39132e7882.html",
@@ -1543,6 +1763,28 @@
       "model": "EV6",
       "condition": "used",
       "price": 46998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Kia Sorento X-Pro",
+      "vin": "5XYRKDJFXRG259405",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/11348cd0ad44.html",
+      "year": 2024,
+      "make": "Kia",
+      "model": "Sorento",
+      "condition": "used",
+      "price": 37988.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Kia Sportage LX",
+      "vin": "KNDPU3DFXR7238400",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/c1015dd3672e.html",
+      "year": 2024,
+      "make": "Kia",
+      "model": "Sportage",
+      "condition": "used",
+      "price": 26988.0,
       "price_currency": "CAD"
     },
     {
@@ -1612,17 +1854,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Volkswagen Golf R White",
-      "vin": "WVWEB7CD0RW146173",
-      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/f395a48cebb2.html",
-      "year": 2024,
-      "make": "Volkswagen",
-      "model": "Golf R",
-      "condition": "used",
-      "price": 42388.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Chevrolet Equinox AWD LT",
       "vin": "3GNAXPEG5SL225736",
       "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/919033257021.html",
@@ -1656,14 +1887,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Ford F-150 Platinum Black",
+      "name": "2025 Ford F-150 Lightning XLT",
+      "vin": "1FTVW3LK4SWG20336",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/044d59fd2121.html",
+      "year": 2025,
+      "make": "Ford",
+      "model": "F-150 Lightning",
+      "condition": "used",
+      "price": 62988.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Ford F-150 Platinum",
       "vin": "1FTFW7LD2SFB51602",
       "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/221f4a631905.html",
       "year": 2025,
       "make": "Ford",
       "model": "F-150",
       "condition": "used",
-      "price": 79488.0,
+      "price": 79988.0,
       "price_currency": "CAD"
     },
     {
@@ -1675,6 +1917,17 @@
       "model": "Accord Hybrid",
       "condition": "used",
       "price": 39588.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Hyundai Elantra Hybrid Limited Heated/Vented Seats | Navigation",
+      "vin": "KMHLN4DJ2SU180064",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/600c50bd725c.html",
+      "year": 2025,
+      "make": "Hyundai",
+      "model": "Elantra Hybrid",
+      "condition": "used",
+      "price": 28099.0,
       "price_currency": "CAD"
     },
     {
@@ -1711,7 +1964,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Hyundai Elantra Essential Gray",
+      "name": "2025 Hyundai Elantra Essential",
       "vin": "KMHLM4DG4SU933777",
       "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/8a0dc4f91272.html",
       "year": 2025,
@@ -1719,6 +1972,39 @@
       "model": "Elantra",
       "condition": "used",
       "price": 15988.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Hyundai Elantra SEL Convenience Backup Camera | Navigation",
+      "vin": "KMHLM4DG2SU004929",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/c64bb934930a.html",
+      "year": 2025,
+      "make": "Hyundai",
+      "model": "Elantra",
+      "condition": "used",
+      "price": 25967.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Hyundai Elantra Preferred",
+      "vin": "KMHLM4DG8SU921115",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/831c20b0d82b.html",
+      "year": 2025,
+      "make": "Hyundai",
+      "model": "Elantra",
+      "condition": "used",
+      "price": 22988.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Hyundai IONIQ 5 N ",
+      "vin": "KM8KNDA86SU006771",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/c7e93de84d8d.html",
+      "year": 2025,
+      "make": "Hyundai",
+      "model": "IONIQ 5",
+      "condition": "used",
+      "price": 65988.0,
       "price_currency": "CAD"
     },
     {
@@ -1740,7 +2026,7 @@
       "make": "Hyundai",
       "model": "Kona",
       "condition": "used",
-      "price": 28988.0,
+      "price": 27988.0,
       "price_currency": "CAD"
     },
     {
@@ -1752,6 +2038,17 @@
       "model": "Kona",
       "condition": "used",
       "price": 32749.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Hyundai Kona Preferred",
+      "vin": "KM8HCCAB9SU284053",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/5a136eed80bb.html",
+      "year": 2025,
+      "make": "Hyundai",
+      "model": "Kona",
+      "condition": "used",
+      "price": 29988.0,
       "price_currency": "CAD"
     },
     {
@@ -1785,6 +2082,28 @@
       "model": "Palisade",
       "condition": "used",
       "price": 51749.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Hyundai Palisade Ultimate Calligraphy Night",
+      "vin": "KM8R5DGE8SU845414",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/2d2f0e571789.html",
+      "year": 2025,
+      "make": "Hyundai",
+      "model": "Palisade",
+      "condition": "used",
+      "price": 50967.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Hyundai Palisade Ultimate Calligraphy",
+      "vin": "KM8R5DGE2SU863634",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/ad9082b290fa.html",
+      "year": 2025,
+      "make": "Hyundai",
+      "model": "Palisade",
+      "condition": "used",
+      "price": 52988.0,
       "price_currency": "CAD"
     },
     {
@@ -1829,6 +2148,17 @@
       "model": "Santa Fe",
       "condition": "used",
       "price": 48249.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Hyundai Santa Fe Ultimate Calligraphy AWD",
+      "vin": "5NMP5DGL8SH138749",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/a83c27918e29.html",
+      "year": 2025,
+      "make": "Hyundai",
+      "model": "Santa Fe",
+      "condition": "used",
+      "price": 47249.0,
       "price_currency": "CAD"
     },
     {
@@ -1895,28 +2225,6 @@
       "model": "Tucson",
       "condition": "used",
       "price": 30988.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Hyundai Tucson Preferred",
-      "vin": "3KMJCCDE0SE025295",
-      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/cf6ed9ee728e.html",
-      "year": 2025,
-      "make": "Hyundai",
-      "model": "Tucson",
-      "condition": "used",
-      "price": 29988.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Hyundai Tucson Preferred",
-      "vin": "5NMJCCDEXSH442032",
-      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/4d4005ae9595.html",
-      "year": 2025,
-      "make": "Hyundai",
-      "model": "Tucson",
-      "condition": "used",
-      "price": 32488.0,
       "price_currency": "CAD"
     },
     {
@@ -2030,14 +2338,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Toyota Camry Sedan SE",
+      "name": "2025 Toyota Camry SE",
       "vin": "4T1DAACK3SU104653",
-      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/c425ce642c21.html",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/b9a9b9362c75.html",
       "year": 2025,
       "make": "Toyota",
       "model": "Camry",
       "condition": "used",
-      "price": 38488.0,
+      "price": 37988.0,
       "price_currency": "CAD"
     },
     {
@@ -2085,14 +2393,58 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Elantra N DCT Black",
-      "vin": "KMHLW4DK8TU036865",
-      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/98dffed626b3.html",
+      "name": "2026 Hyundai Elantra Hybrid Luxury Sedan",
+      "vin": "KMHLN4DJ2TU189686",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/88b36f99f780.html",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Elantra",
+      "model": "Elantra Hybrid",
       "condition": "used",
-      "price": 41899.0,
+      "price": 31349.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Hyundai Elantra Hybrid Luxury Sedan",
+      "vin": "KMHLN4DJ5TU195319",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/bc3d0b01d838.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Elantra Hybrid",
+      "condition": "used",
+      "price": 30349.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Hyundai Elantra Hybrid Luxury Sedan",
+      "vin": "KMHLN4DJ2TU189221",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/61cc915c65e7.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Elantra Hybrid",
+      "condition": "used",
+      "price": 31349.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Hyundai Elantra Hybrid Luxury Sedan",
+      "vin": "KMHLN4DJ5TU195367",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/2b61f5d402b5.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Elantra Hybrid",
+      "condition": "used",
+      "price": 31349.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Hyundai Elantra Hybrid Luxury Sedan",
+      "vin": "KMHLN4DJ3TU196307",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/baa5fe18684c.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Elantra Hybrid",
+      "condition": "used",
+      "price": 30349.0,
       "price_currency": "CAD"
     },
     {
@@ -2107,14 +2459,36 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Elantra DCT",
-      "vin": "KMHLW4DK6TU040526",
-      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/108ed4530810.html",
+      "name": "2026 Hyundai Elantra Preferred IVT w/Tech Pkg",
+      "vin": "KMHLM4DG0TU134970",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/2741aaea14b9.html",
       "year": 2026,
       "make": "Hyundai",
       "model": "Elantra",
       "condition": "used",
-      "price": 41549.0,
+      "price": 28999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Hyundai Elantra Preferred IVT",
+      "vin": "KMHLM4DG0TU140932",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/d73d62f4c3e9.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Elantra",
+      "condition": "used",
+      "price": 27149.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Hyundai Elantra DCT",
+      "vin": "KMHLW4DK1TU038960",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/01dabbb18b49.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Elantra",
+      "condition": "used",
+      "price": 44049.0,
       "price_currency": "CAD"
     },
     {
@@ -2129,14 +2503,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai IONIQ 5 Preferred AWD Long Range",
-      "vin": "KM8KNDDC9TU396573",
-      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/bd6d65eb4466.html",
+      "name": "2026 Hyundai Elantra Preferred IVT w/Tech Pkg",
+      "vin": "KMHLM4DG6TU187088",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/362d4764e20e.html",
       "year": 2026,
       "make": "Hyundai",
-      "model": "IONIQ 5",
+      "model": "Elantra",
       "condition": "used",
-      "price": 59999.0,
+      "price": 29849.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Hyundai Elantra Preferred IVT w/Tech Pkg",
+      "vin": "KMHLM4DG4TU135331",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/4913f1577e11.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Elantra",
+      "condition": "used",
+      "price": 25849.0,
       "price_currency": "CAD"
     },
     {
@@ -2162,6 +2547,28 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2026 Hyundai IONIQ 9 Preferred + AWD w/Ultimate Calligraphy Pkg",
+      "vin": "KM8MYFS5XTA020708",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/6d2d1f646d14.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "IONIQ 9",
+      "condition": "used",
+      "price": 77649.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Hyundai Kona 1.6T N Line AWD w/Two-Tone Roof",
+      "vin": "KM8HACA30TU426273",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/eab49ecf3f2d.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Kona",
+      "condition": "used",
+      "price": 38549.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Hyundai Kona 2.0L Preferred AWD",
       "vin": "KM8HBCAB6TU425357",
       "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/fc716be6050c.html",
@@ -2173,14 +2580,80 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Kona 1.6T N Line Ultimate AWD",
-      "vin": "KM8HECA38TU441849",
-      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/745d9b9c535f.html",
+      "name": "2026 Hyundai Kona 2.0L Preferred AWD w/Trend Package",
+      "vin": "KM8HCCABXTU449934",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/48cf884865c2.html",
       "year": 2026,
       "make": "Hyundai",
       "model": "Kona",
       "condition": "used",
-      "price": 41799.0,
+      "price": 31988.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Hyundai Kona 1.6T N Line Ultimate AWD w/Two-Tone Roof",
+      "vin": "KM8HECA3XTU441464",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/9f7283f2ebe2.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Kona",
+      "condition": "used",
+      "price": 36249.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Hyundai Kona 2.0L Preferred AWD w/Trend Package",
+      "vin": "KM8HCCAB9TU455434",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/29bd02996b9e.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Kona",
+      "condition": "used",
+      "price": 32099.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Hyundai Kona 2.0L Preferred AWD w/Trend Package",
+      "vin": "KM8HCCAB6TU457108",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/e71763ac5fe4.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Kona",
+      "condition": "used",
+      "price": 36099.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Hyundai Kona 1.6T N Line Ultimate AWD w/Two-Tone Roof",
+      "vin": "KM8HECA30TU447306",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/d5fd5bdc5189.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Kona",
+      "condition": "used",
+      "price": 36249.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Hyundai Kona 1.6T N Line Ultimate AWD w/Two-Tone Roof",
+      "vin": "KM8HECA32TU438848",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/28ff7dcc5ff7.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Kona",
+      "condition": "used",
+      "price": 36999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Hyundai Palisade Hybrid Ultimate Calligraphy AWD",
+      "vin": "KM8RMESAXTU078034",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/527b89e18608.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Palisade Hybrid",
+      "condition": "used",
+      "price": 63149.0,
       "price_currency": "CAD"
     },
     {
@@ -2261,17 +2734,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Santa Fe Hybrid Ultimate Calligraphy AWD",
-      "vin": "KM8P5DG17TU201831",
-      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/6846013944ed.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Santa Fe Hybrid",
-      "condition": "used",
-      "price": 59649.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Hyundai Santa Fe Hybrid Preferred Black",
       "vin": "KM8P2DG19TU201466",
       "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/a972eeba08eb.html",
@@ -2280,17 +2742,6 @@
       "model": "Santa Fe Hybrid",
       "condition": "used",
       "price": 42549.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Santa Fe Hybrid Luxury AWD",
-      "vin": "KM8P3DG16TU191833",
-      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/9fbefcf62ca1.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Santa Fe Hybrid",
-      "condition": "used",
-      "price": 55999.0,
       "price_currency": "CAD"
     },
     {
@@ -2350,8 +2801,8 @@
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid Ultimate Calligraphy AWD",
-      "vin": "KM8P5DG14TU192103",
-      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/3e5300acb1fd.html",
+      "vin": "KM8P5DG15TU188674",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/bcdddbfd0a43.html",
       "year": 2026,
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
@@ -2360,14 +2811,58 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Santa Fe Hybrid Ultimate Calligraphy AWD",
-      "vin": "KM8P5DG15TU188674",
-      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/bcdddbfd0a43.html",
+      "name": "2026 Hyundai Santa Fe Hybrid Preferred AWD w/Trend Pkg",
+      "vin": "KM8P3DG15TU192651",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/60d770ee9a6d.html",
       "year": 2026,
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
       "condition": "used",
-      "price": 54349.0,
+      "price": 45349.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Hyundai Santa Fe Hybrid Luxury AWD",
+      "vin": "KM8P3DG14TU190941",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/a10f9bf2795e.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Santa Fe Hybrid",
+      "condition": "used",
+      "price": 48999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Hyundai Santa Fe Hybrid Preferred AWD w/Trend Pkg",
+      "vin": "KM8P3DG17TU192005",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/f80a0821407f.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Santa Fe Hybrid",
+      "condition": "used",
+      "price": 42999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Hyundai Santa Fe Hybrid Luxury AWD",
+      "vin": "KM8P3DG1XTU174694",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/3e26e2d47bb4.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Santa Fe Hybrid",
+      "condition": "used",
+      "price": 49249.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Hyundai Santa Fe Hybrid Luxury AWD",
+      "vin": "KM8P3DG15TU188972",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/96ed9e359f41.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Santa Fe Hybrid",
+      "condition": "used",
+      "price": 50499.0,
       "price_currency": "CAD"
     },
     {
@@ -2492,14 +2987,58 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Tucson Hybrid Ultimate AWD",
-      "vin": "KM8JCDD10TU437382",
-      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/5accf476f9be.html",
+      "name": "2026 Hyundai Tucson Hybrid N-Line AWD",
+      "vin": "KM8JCDD18TU421981",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/caf1e3b3b6a2.html",
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
       "condition": "used",
-      "price": 50199.0,
+      "price": 40949.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Hyundai Tucson Hybrid N-Line AWD",
+      "vin": "KM8JCDD12TU423418",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/e08ae012efe3.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Tucson Hybrid",
+      "condition": "used",
+      "price": 41199.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Hyundai Tucson Hybrid Ultimate AWD",
+      "vin": "KM8JCDD10TU452190",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/e2fd8a811ac9.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Tucson Hybrid",
+      "condition": "used",
+      "price": 45949.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Hyundai Tucson Hybrid N-Line AWD",
+      "vin": "KM8JCDD19TU436473",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/86bc0aea6275.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Tucson Hybrid",
+      "condition": "used",
+      "price": 40949.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Hyundai Tucson Hybrid Ultimate AWD",
+      "vin": "KM8JCDD16TU461752",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/b8720ac3c59e.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Tucson Hybrid",
+      "condition": "used",
+      "price": 44949.0,
       "price_currency": "CAD"
     },
     {
@@ -2525,6 +3064,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2026 Hyundai Tucson Preferred AWD w/Trend Pkg",
+      "vin": "3KMJCCDE7TE037977",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/4899e2fc5370.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Tucson",
+      "condition": "used",
+      "price": 40849.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Hyundai Tucson Preferred AWD",
       "vin": "3KMJBCDE1TE031711",
       "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/2318168e9545.html",
@@ -2533,17 +3083,6 @@
       "model": "Tucson",
       "condition": "used",
       "price": 31799.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Tucson Preferred AWD w/Trend Pkg",
-      "vin": "KM8JCCDE5TU447970",
-      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/0dd98fa3f7fa.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Tucson",
-      "condition": "used",
-      "price": 41849.0,
       "price_currency": "CAD"
     },
     {
@@ -2654,6 +3193,116 @@
       "model": "Tucson",
       "condition": "used",
       "price": 41849.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Hyundai Tucson Preferred AWD w/Trend Pkg",
+      "vin": "KM8JCCDE3TU447966",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/b0c70bc3049e.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Tucson",
+      "condition": "used",
+      "price": 36967.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Hyundai Tucson Preferred AWD w/Trend Pkg",
+      "vin": "3KMJCCDE9TE032733",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/8a8ed3e1d682.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Tucson",
+      "condition": "used",
+      "price": 36949.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Hyundai Tucson Preferred AWD w/Trend Pkg",
+      "vin": "3KMJCCDE6TE036013",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/fee1b64db547.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Tucson",
+      "condition": "used",
+      "price": 37499.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Hyundai Tucson Preferred AWD",
+      "vin": "KM8JBCDE9TU470140",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/2f589269636b.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Tucson",
+      "condition": "used",
+      "price": 32799.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Hyundai Tucson Preferred AWD w/Trend Pkg",
+      "vin": "3KMJCCDE6TE035105",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/b41178ccf42d.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Tucson",
+      "condition": "used",
+      "price": 35849.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Hyundai Tucson Preferred AWD w/Trend Pkg",
+      "vin": "3KMJCCDE7TE032732",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/06e3e0be3f93.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Tucson",
+      "condition": "used",
+      "price": 35949.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Hyundai Tucson Preferred AWD w/Trend Pkg",
+      "vin": "3KMJCCDE4TE030632",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/e57c6190475e.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Tucson",
+      "condition": "used",
+      "price": 36849.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Hyundai Tucson Preferred AWD w/Trend Pkg",
+      "vin": "3KMJCCDE2TE036011",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/84b323a9bcc5.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Tucson",
+      "condition": "used",
+      "price": 37499.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Hyundai Tucson Preferred AWD w/Trend Pkg",
+      "vin": "KM8JCCDE8TU452323",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/8a914e226eec.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Tucson",
+      "condition": "used",
+      "price": 36849.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Hyundai Tucson Preferred AWD w/Trend Pkg",
+      "vin": "KM8JCCDE4TU457048",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/4f3a1923f367.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Tucson",
+      "condition": "used",
+      "price": 36849.0,
       "price_currency": "CAD"
     },
     {
@@ -5052,6 +5701,17 @@
       "model": "IONIQ 5",
       "condition": "used",
       "price": 82199.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Hyundai IONIQ 5 Ultimate AWD",
+      "vin": "KM8KRDDC9VU428767",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/c9768b09db71.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "IONIQ 5",
+      "condition": "used",
+      "price": 66249.0,
       "price_currency": "CAD"
     },
     {
