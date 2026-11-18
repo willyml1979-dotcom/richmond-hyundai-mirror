@@ -1,7 +1,7 @@
 {
   "dealership": "Richmond Hyundai",
-  "generated_at": "2026-11-18T10:43:38",
-  "vehicle_count": 588,
+  "generated_at": "2026-11-18T10:57:21",
+  "vehicle_count": 592,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -2272,17 +2272,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Hyundai Tucson Preferred AWD w/Trend Pkg",
-      "vin": "5NMJCCDE7SH560720",
-      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/new/8287e5d6627c.html",
-      "year": 2025,
-      "make": "Hyundai",
-      "model": "Tucson",
-      "condition": "new",
-      "price": 41049.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Hyundai Tucson XRT AWD",
       "vin": "5NMJFCDEXSH534829",
       "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/new/b7f8f7ce7956.html",
@@ -3746,6 +3735,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2026 Hyundai Elantra Preferred IVT w/Tech Pkg",
+      "vin": "KMHLM4DG8TU317081",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/new/8ac91abb03fc.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Elantra",
+      "condition": "new",
+      "price": 29349.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Hyundai IONIQ 9 Preferred AWD w/Luxury Pkg",
       "vin": "KM8MWFS37TA020735",
       "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/new/38be37ce4e9e.html",
@@ -4766,6 +4766,17 @@
       "model": "Tucson Hybrid",
       "condition": "new",
       "price": 47049.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Hyundai Tucson Hybrid Ultimate",
+      "vin": "KM8JCDD17TU559494",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/new/b9ea3ce3fe7f.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "price": 50449.0,
       "price_currency": "CAD"
     },
     {
@@ -6133,6 +6144,28 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2027 Hyundai Palisade Hybrid Ultimate Calligraphy AWD",
+      "vin": "KM8RMESAXVU163426",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/new/6a075f7079cc.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Palisade Hybrid",
+      "condition": "new",
+      "price": 69449.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Hyundai Palisade Hybrid Ultimate Calligraphy AWD",
+      "vin": "KM8RMESA3VU163445",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/new/2e58cc61a00c.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Palisade Hybrid",
+      "condition": "new",
+      "price": 69449.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2027 Hyundai Santa Fe Hybrid Ultimate Calligraphy AWD",
       "vin": "KM8P5DG18VU219533",
       "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/new/fd3e07cd6447.html",
@@ -6427,6 +6460,17 @@
       "model": "Santa Fe Hybrid",
       "condition": "new",
       "price": 56649.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Hyundai Santa Fe Hybrid Ultimate Calligraphy AWD",
+      "vin": "KM8P5DG11VU230129",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/new/b6161c59797e.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Santa Fe Hybrid",
+      "condition": "new",
+      "price": 59749.0,
       "price_currency": "CAD"
     },
     {

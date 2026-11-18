@@ -1,6 +1,6 @@
 # Richmond Hyundai
 
- dealership in Richmond. AI-readable inventory mirror, about 588 vehicles.
+ dealership in Richmond. AI-readable inventory mirror, about 592 vehicles.
 
 - Official website: https://www.richmondhyundai.ca/
 - Used vehicles: https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/
