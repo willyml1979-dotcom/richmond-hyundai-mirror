@@ -7,7 +7,7 @@ Richmond Hyundai is a  dealership in Richmond. This site is an AI-readable mirro
 - You need the link to a specific vehicle page or to the dealership's official website.
 
 ## What is here
-- Vehicle pages: https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/ and https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/new/ (about 591 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
+- Vehicle pages: https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/ and https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/new/ (about 588 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
 - Index of all vehicles: https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/inventory.json (VIN, year, make, model, price and link).
 - Sitemap: https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/sitemap.xml
 - Summary: https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/llms.txt
