@@ -1,6 +1,6 @@
 {
   "dealership": "Richmond Hyundai",
-  "generated_at": "2026-11-18T10:57:21",
+  "generated_at": "2026-11-18T21:13:23",
   "vehicle_count": 592,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -981,7 +981,7 @@
       "make": "Lexus",
       "model": "NX",
       "condition": "used",
-      "price": 33588.0,
+      "price": 32788.0,
       "price_currency": "CAD"
     },
     {
@@ -992,7 +992,7 @@
       "make": "Mazda",
       "model": "CX-30",
       "condition": "used",
-      "price": 27988.0,
+      "price": 26988.0,
       "price_currency": "CAD"
     },
     {
@@ -1025,7 +1025,7 @@
       "make": "Mitsubishi",
       "model": "RVR",
       "condition": "used",
-      "price": 21488.0,
+      "price": 19988.0,
       "price_currency": "CAD"
     },
     {
@@ -1047,7 +1047,7 @@
       "make": "Toyota",
       "model": "RAV4",
       "condition": "used",
-      "price": 26499.0,
+      "price": 26488.0,
       "price_currency": "CAD"
     },
     {
@@ -1058,7 +1058,7 @@
       "make": "Honda",
       "model": "Civic",
       "condition": "used",
-      "price": 24988.0,
+      "price": 22988.0,
       "price_currency": "CAD"
     },
     {
@@ -1102,7 +1102,7 @@
       "make": "Hyundai",
       "model": "Santa Cruz",
       "condition": "used",
-      "price": 31388.0,
+      "price": 29988.0,
       "price_currency": "CAD"
     },
     {
@@ -1223,7 +1223,7 @@
       "make": "Hyundai",
       "model": "Elantra",
       "condition": "used",
-      "price": 22388.0,
+      "price": 20988.0,
       "price_currency": "CAD"
     },
     {
@@ -1256,7 +1256,7 @@
       "make": "Hyundai",
       "model": "IONIQ 5",
       "condition": "used",
-      "price": 39988.0,
+      "price": 37988.0,
       "price_currency": "CAD"
     },
     {
@@ -1289,7 +1289,7 @@
       "make": "Hyundai",
       "model": "Kona",
       "condition": "used",
-      "price": 32988.0,
+      "price": 31988.0,
       "price_currency": "CAD"
     },
     {
@@ -1300,7 +1300,7 @@
       "make": "Hyundai",
       "model": "Kona",
       "condition": "used",
-      "price": 22988.0,
+      "price": 21988.0,
       "price_currency": "CAD"
     },
     {
@@ -1355,7 +1355,7 @@
       "make": "Hyundai",
       "model": "Tucson",
       "condition": "used",
-      "price": 24995.0,
+      "price": 21988.0,
       "price_currency": "CAD"
     },
     {
@@ -1410,7 +1410,7 @@
       "make": "Kia",
       "model": "Telluride",
       "condition": "used",
-      "price": 37788.0,
+      "price": 36977.0,
       "price_currency": "CAD"
     },
     {
@@ -1939,17 +1939,6 @@
       "model": "Elantra",
       "condition": "used",
       "price": 25967.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Hyundai Elantra Preferred",
-      "vin": "KMHLM4DG8SU921115",
-      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/831c20b0d82b.html",
-      "year": 2025,
-      "make": "Hyundai",
-      "model": "Elantra",
-      "condition": "used",
-      "price": 22988.0,
       "price_currency": "CAD"
     },
     {
@@ -5283,6 +5272,17 @@
       "model": "CLE Convertible AMG CLE 53",
       "condition": "used",
       "price": 104988.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Hyundai IONIQ 5 N AWD",
+      "vin": "KM8KNDA8XVU012237",
+      "url": "https://willyml1979-dotcom.github.io/richmond-hyundai-mirror/used/f367ca063a9d.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "IONIQ 5",
+      "condition": "used",
+      "price": 82199.0,
       "price_currency": "CAD"
     },
     {
